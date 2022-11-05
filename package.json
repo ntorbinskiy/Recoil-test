@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "hamt_plus": "1.0.2",
+    "recoil": "^0.7.6",
     "transit-js": "^0.8.874"
   },
   "peerDependencies": {
